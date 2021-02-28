@@ -146,6 +146,7 @@ class LaminaCalculadora extends JPanel{
 }
 
 Importando biblioteca a un nuevo proyecto.
+
 import Calculadora.Program_calcu;
 
 public class prueba {
